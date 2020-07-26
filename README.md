@@ -1,4 +1,6 @@
-# Simon Thor
+<h1 align=center> Simon Thor </h1>
+
+[![Website banner](planets.png)](https://simonthor.github.io)
 
 Hi!
 
