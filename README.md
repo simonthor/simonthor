@@ -9,7 +9,7 @@ I'm a student and part-time researcher at the KTH Royal Institute of Technology.
 ## Current projects
 Projects I'm currently working actively on: 
 - [`transpolar-arcs`](https://github.com/simonthor/transpolar-arcs)
-- [`xkcd`](https://github.com/simonthor/xkcd)
+- [`kth-matlab-ambassador`](https://github.com/simonthor/kth-matlab-ambassador)
 - [`simonthor.github.io`](https://github.com/simonthor/simonthor.github.io)
 
 ## Website
