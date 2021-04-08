@@ -4,7 +4,7 @@
 
 Hi!
 
-I'm a student and part-time researcher at the KTH Royal Institute of Technology. I mainly conduct research on space physics.
+I'm a student and part-time researcher at the KTH Royal Institute of Technology. I conduct research on space physics and is interested in particle physics and data science.
 
 ## Projects
 Projects I'm currently working actively on: 
