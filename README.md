@@ -6,7 +6,7 @@ Hi!
 
 I'm a student and part-time researcher at the KTH Royal Institute of Technology. I mainly conduct research on space physics.
 
-## Current projects
+## Projects
 Projects I'm currently working actively on: 
 - [`transpolar-arcs`](https://github.com/simonthor/transpolar-arcs)
 - [`kth-matlab-ambassador`](https://github.com/simonthor/kth-matlab-ambassador)
