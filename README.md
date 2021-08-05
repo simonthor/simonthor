@@ -4,13 +4,7 @@
 
 Hi!
 
-I'm a student and part-time researcher at the KTH Royal Institute of Technology. I conduct research on space physics and is interested in particle physics and data science.
+I'm a student and part-time researcher at the KTH Royal Institute of Technology. 
+I conduct research on space physics and I am also interested in particle physics and data science.
 
-## Projects
-Projects I'm currently working actively on: 
-- [`transpolar-arcs`](https://github.com/simonthor/transpolar-arcs)
-- [`kth-matlab-ambassador`](https://github.com/simonthor/kth-matlab-ambassador)
-- [`simonthor.github.io`](https://github.com/simonthor/simonthor.github.io)
-
-## Website
-More information about me can be found on [my website](https://simonthor.github.io).
+The pinned projects below are some projects I actively work on. 
