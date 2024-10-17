@@ -4,7 +4,11 @@
 
 Hi!
 
-I'm a student and part-time researcher at the KTH Royal Institute of Technology. 
-I conduct research on space physics and particle physics. I am also interested in data science.
+I'm a PhD student at the ETH Zürich, based at CERN. I mainly work with searching for neutrinos (one of the least understood fundamental particles) at the FASER experiment.
+I also help out with Hyper-Kamiokande, a neutrino detector that is being constructed in Japan.
+
+Outside of particle physics, I have also done research on aurora.
+
+I mainly program in Python and C++, but I'm also interested in Julia. You can also find some projects written in MATLAB and Javascript here on Github.
 
 For a highlight of my work, see the pinned projects below. 
